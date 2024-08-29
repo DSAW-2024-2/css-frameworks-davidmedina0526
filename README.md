@@ -1,5 +1,8 @@
 # Reto de HTML y CSS con Bootstrap y TailwindCSS
 
+Link al Bootstrap: https://dsaw-2024-2.github.io/css-frameworks-davidmedina0526/bootstrap-workshop
+Link al Tailwind CSS: https://dsaw-2024-2.github.io/css-frameworks-davidmedina0526/tailwindcss-workshop
+
 ![Design preview for the Results summary component coding challenge](./assets/design/desktop-preview.jpg)
 ![Design preview for the Results summary component coding challenge](./assets/design/mobile-design.jpg)
 
